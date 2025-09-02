@@ -56,4 +56,6 @@ This software is provided **free of charge for personal and non-commercial use o
 
 ---
 
+Buy pro version [HERE](https://pc-master-pro.itch.io/pc-master-password-manager-pro)
+
 © 2025, Ibrahim Kečo – PC MASTER Development Team
