@@ -55,7 +55,8 @@ This software is provided **free of charge for personal and non-commercial use o
 📧 Contact: **e75dtk@gmail.com**
 
 ---
-
+## 💻 PASSWORD MANAGER PRO
 For much better expirience and security ... Buy pro version [HERE](https://pc-master-pro.itch.io/pc-master-password-manager-pro)
+---
 
 © 2025, Ibrahim Kečo – PC MASTER Development Team
