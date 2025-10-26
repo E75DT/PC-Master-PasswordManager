@@ -56,7 +56,7 @@ This software is provided **free of charge for personal and non-commercial use o
 
 ---
 ## 💻 PASSWORD MANAGER PRO
-For much better expirience and security ... Buy pro version [HERE]([https://pcmaster.ba/commercial-applications/password-manager-pro)
+For much better expirience and security ... Buy pro version [HERE]([https://pcmaster.ba/commercial-applications/password-manager-pro])
 ---
 
 © 2025, Ibrahim Kečo – PC MASTER Development Team
